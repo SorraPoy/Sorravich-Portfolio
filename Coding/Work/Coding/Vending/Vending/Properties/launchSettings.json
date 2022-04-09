@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vending": {
+      "commandName": "Project",
+      "workingDirectory": "G:\\Visual Studio Work\\Vending"
+    }
+  }
+}

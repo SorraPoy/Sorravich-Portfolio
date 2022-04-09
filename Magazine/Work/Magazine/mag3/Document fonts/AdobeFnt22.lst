@@ -1,0 +1,259 @@
+%!Adobe-FontList 1.22
+%Locale:0x41e
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AgencyFB-Reg
+FamilyName:Agency FB
+StyleName:Regular
+FullName:Agency FB
+MenuName:Agency FB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\AGENCYR.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58920
+FileModTime:1037677382
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Agency FB
+NameArray:0,Win,1,Agency FB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BookmanOldStyle
+FamilyName:Bookman Old Style
+StyleName:Regular
+FullName:Bookman Old Style
+MenuName:Bookman Old Style
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\BOOKOS.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160940
+FileModTime:910175444
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bookman Old Style
+NameArray:0,Win,1,Bookman Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BookmanOldStyle-Bold
+FamilyName:Bookman Old Style
+StyleName:Bold
+FullName:Bookman Old Style Bold
+MenuName:Bookman Old Style
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\BOOKOSB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154576
+FileModTime:910175444
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bookman Old Style Bold
+NameArray:0,Win,1,Bookman Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CalistoMT
+FamilyName:Calisto MT
+StyleName:Regular
+FullName:Calisto MT
+MenuName:Calisto MT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\CALIST.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80148
+FileModTime:923041880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calisto MT
+NameArray:0,Win,1,Calisto MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CalisMTBol
+FamilyName:Calisto MT
+StyleName:Bold
+FullName:Calisto MT Bold
+MenuName:Calisto MT
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\CALISTB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85080
+FileModTime:923041930
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calisto MT Bold
+NameArray:0,Win,1,Calisto MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CopperplateGothic-Bold
+FamilyName:Copperplate Gothic Bold
+StyleName:Regular
+FullName:Copperplate Gothic Bold
+MenuName:Copperplate Gothic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\COPRGTB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61552
+FileModTime:934953228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Copperplate Gothic Bold
+NameArray:0,Win,1,Copperplate Gothic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Clarxndon-Regular
+FamilyName:Clarendon
+StyleName:Regular
+FullName:Clarendon Regular
+MenuName:Clarendon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\Clarendon Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37132
+FileModTime:1590556996
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clarendon Regular
+NameArray:0,Win,1,Clarendon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ImprintMT-Shadow
+FamilyName:Imprint MT Shadow
+StyleName:Regular
+FullName:Imprint MT Shadow
+MenuName:Imprint MT Shadow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\IMPRISHA.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60488
+FileModTime:934953240
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Imprint MT Shadow
+NameArray:0,Win,1,Imprint MT Shadow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1628668630
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IrisUPCBold
+FamilyName:IrisUPC
+StyleName:Bold
+FullName:IrisUPC Bold
+MenuName:IrisUPC
+StyleBits:2
+WritingScript:Thai
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\upcib.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71820
+FileModTime:1571147160
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IrisUPC
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IrisUPC
+FamilyName:IrisUPC
+StyleName:Regular
+FullName:IrisUPC
+MenuName:IrisUPC
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Mix\07_256_Sorravich Folder\Document fonts\upcil.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70892
+FileModTime:1571147160
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IrisUPC
+%EndFont
+

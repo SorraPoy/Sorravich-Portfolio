@@ -1,0 +1,80 @@
+%!Adobe-FontList 1.22
+%Locale:0x41e
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FCMinimalBold
+FamilyName:FC Minimal
+StyleName:Bold
+FullName:FC Minimal Bold
+MenuName:FC Minimal
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Project Final\256_05_Final Folder\Document fonts\FC Minimal Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53180
+FileModTime:1611794992
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FC Minimal Bold
+NameArray:0,Mac,4,FC Minimal Bold
+NameArray:0,Win,1,FC Minimal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FCMinimalRegular
+FamilyName:FC Minimal
+StyleName:Regular
+FullName:FC Minimal Regular
+MenuName:FC Minimal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Project Final\256_05_Final Folder\Document fonts\FC Minimal Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65128
+FileModTime:1611794980
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FC Minimal Regular
+NameArray:0,Mac,4,FC Minimal Regular
+NameArray:0,Win,1,FC Minimal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quick
+FamilyName:Quick
+StyleName:Regular
+FullName:Quick
+MenuName:Quick
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Project Final\256_05_Final Folder\Document fonts\Quick.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24044
+FileModTime:1520804218
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quick
+NameArray:0,Win,1,Quick
+%EndFont
+

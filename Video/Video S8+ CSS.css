@@ -1,0 +1,79 @@
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 740px) 
+  and (-webkit-min-device-pixel-ratio: 4)
+  and (orientation: portrait) { 
+
+/*Video*/
+.head1 
+{
+    text-align: center; 
+    margin: 10vh 0 7vh; 
+    font-size: 12vh;
+    color: #ffffff;
+    transition: 0.8s ease;
+} 
+.convid1
+{
+    width: 100%;
+    display: block;
+    float: left;
+}
+.columnhead1
+{
+    width: 100%;
+    display: block;
+    float: left;
+    background-color: #792dcb;
+}
+.textvid1
+{
+    text-align: center; 
+    width: 80%;
+    border-bottom: 0.4vh solid #792dcb; 
+    line-height: 0em;
+    margin: 8vh 0 6vh; 
+    font-size: 6vh;
+    color: #792dcb;
+    transition: 0.8s ease;
+} 
+ 
+.textvid1 span 
+{ 
+     background:#ffffff; 
+     padding: 0vh 0.5vw;
+}
+.columnvid1
+{
+    width: 100%;
+    display: block;
+    float: left;
+    margin-bottom: 10vh;
+}
+.columnvid1:hover .textvid1
+{
+    transition: 0.8s ease;
+    width: 80%;
+}
+.imgvid1
+{
+    width: 50vw;
+}
+.textvid2
+{
+    font-size: 4vh;
+    color: #5e5e5e;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+.video
+{
+    width: 70%;
+    height: 20vh;
+    margin-top: 2vh;
+}
+
+
+/*Video*/
+
+  }

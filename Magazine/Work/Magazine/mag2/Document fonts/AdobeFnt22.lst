@@ -1,0 +1,73 @@
+%!Adobe-FontList 1.22
+%Locale:0x41e
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AgencyFB-Reg
+FamilyName:Agency FB
+StyleName:Regular
+FullName:Agency FB
+MenuName:Agency FB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Master\06_256_Sorravich\Document fonts\AGENCYR.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58920
+FileModTime:1037677382
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Agency FB
+NameArray:0,Win,1,Agency FB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SOV_MuekMod_Bold
+FamilyName:SOV_MuekMod
+StyleName:_Bold
+FullName:SOV_MuekMod_Bold
+MenuName:SOV_MuekMod
+StyleBits:2
+WritingScript:Thai
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Master\06_256_Sorravich\Document fonts\SOV_MuekMod_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:254012
+FileModTime:1627309360
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SOV_MuekMod_Bold
+NameArray:0,Win,1,SOV_MuekMod
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSPimpdeedIINewASCII
+FamilyName:PS Pimpdeed II New ASCII
+StyleName:Regular
+FullName:PS Pimpdeed II New ASCII
+MenuName:PS Pimpdeed II New ASCII
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Master\06_256_Sorravich\Document fonts\ps_pimpdeed II new ascii.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:244340
+FileModTime:1181479458
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PS Pimpdeed II New ASCII
+NameArray:0,Mac,4,PS Pimpdeed II New ASCII
+NameArray:0,Win,1,PS Pimpdeed II New ASCII
+%EndFont
+

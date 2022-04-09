@@ -1,0 +1,259 @@
+@media only screen 
+  and (min-device-width: 820px) 
+  and (max-device-width: 1180px) 
+  and (-webkit-min-device-pixel-ratio: 1)
+  and (orientation: landscape) { 
+
+/*Introduction START*/
+.container1
+{
+    width: 100%;
+    height: 70vh;
+    display: block;
+}
+.column1
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+}
+.column2
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+}
+.imgintro1
+{
+    width: 60%;
+    border-radius: 20px;
+    margin-top: 20vh;
+    border: 1px solid;
+    margin-left: 15vw;
+}
+.column3
+{
+    width: 100%;
+    height: 55%;
+    display: block;
+    float: left;
+    padding-top: 12vh;
+    margin-bottom: 0;
+}
+.column4
+{
+    width: 100%;
+    height: 50%;
+    display: block;
+    float: left;
+    padding-top: 2vh;
+    padding-right: 15vw;
+    margin-top: 0;
+}
+.textintro1
+{
+    font-size: 7vh;
+    color: #792dcb;
+    margin-bottom: 0;
+}
+.textintro2
+{
+    font-size: 3vh;
+    color: #5e5e5e;
+    margin: 0;
+}
+.textintro3
+{
+    font-size: 7vh;
+    color: #792dcb;
+    margin: 0;
+    transition: 0.5s ease;
+}
+.column2:hover .textintro3
+{
+    transition: 0.5s ease;
+    text-shadow: 0px 10px 20px #cbae2d;
+    color: #817554;
+}
+/*Introduction END*/
+
+/*Story START*/
+.consto1
+{
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+.columnsto1
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+}
+.columnsto2
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+}
+.imgsto1
+{
+    width: 55%;
+    border-radius: 20px;
+    border: 1px solid;
+    margin-top: 5vh;
+}
+.imgsto2
+{
+    width: 55%;
+    border-radius: 20px;
+    border: 1px solid;
+    margin-top: 5vh;
+}
+.textsto1
+{
+    font-size: 7vh;
+    color: #792dcb;
+    margin-top: 5vh;
+    margin-bottom: 0;
+    margin-left: 15vw;
+}
+.textsto2
+{
+    font-size: 2.5vh;
+    color: #5e5e5e;
+    margin: 0;
+    margin-top: 2vh;
+    margin-bottom: 0;
+    margin-left: 15vw;
+    padding-right: 3.5vw;
+}
+.textsto3
+{
+    font-size: 5vh;
+    color: #792dcb;
+    margin-top: 5vh;
+    margin-bottom: 0;
+    margin-left: 15vw;
+}
+.textsto4
+{
+    font-size: 2.5vh;
+    color: #5e5e5e;
+    margin: 0;
+    margin-top: 3vh;
+    margin-bottom: 0;
+    margin-left: 15vw;
+    padding-right: 3.5vw;
+}
+/*Story END*/
+
+/*Skill START*/
+.head1 
+{
+    text-align: center; 
+    width: 50%;
+    border-bottom: 0.4vh solid #792dcb; 
+    line-height: 0.1em;
+    margin: 10vh 0 10vh; 
+    font-size: 8vh;
+    color: #792dcb;
+    left: 50%;
+    transition: 0.8s ease;
+} 
+ 
+.head1 span 
+{ 
+     background:#ffffff; 
+     padding: 0vh 0.5vw;
+}
+.conskill1
+{
+    width: 100%;
+    display: block;
+    float: left;
+    height: 70vh;
+}
+.conskill1:hover .head1
+{
+    transition: 0.8s ease;
+    width: 80%;
+}
+.columnskill1
+{
+    width: 10%;
+    display: block;
+    float: left;
+    height: 50vh;
+}
+.columnskill2
+{
+    width: 20%;
+    display: block;
+    float: left;
+    height: 50vh;
+    border-right: 1.5px solid #5e5e5e;
+}
+.columnskill3
+{
+    width: 20%;
+    display: block;
+    float: left;
+    height: 50vh;
+    border-right: 1.5px solid #5e5e5e;
+}
+.columnskill4
+{
+    width: 20%;
+    display: block;
+    float: left;
+    height: 50vh;
+    border-right: 1.5px solid #5e5e5e;
+}
+.columnskill5
+{
+    width: 20%;
+    display: block;
+    float: left;
+    height: 50vh;
+}
+.imgskill1
+{
+    width: 20%;
+    border-radius: 10px;
+    margin-bottom: 2vh;
+}
+.textskill1
+{
+    font-size: 5vh;
+    color: #792dcb;
+    margin: 0;
+    text-align: center; 
+    width: 90%;
+    border-bottom: 0.4vh solid #792dcb; 
+    line-height: 0.1vh;
+    margin-top: 2vh;
+    margin-bottom: 4vh;
+}
+.textskill1 span 
+{ 
+     background:#ffffff; 
+     padding: 0vh 0.5vw;
+}
+
+.textskill2
+{
+    font-size: 3vh;
+    color: #5e5e5e;
+    margin: 0;
+    margin-bottom: 2vh;
+}
+
+
+/*Skill END*/
+
+  }

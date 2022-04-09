@@ -1,0 +1,88 @@
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 896px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+/*Contact START*/
+.concontact1
+{
+    width: 100%;
+    display: block;
+    float: left;
+    height: 90vh;
+}
+.head1 
+{
+    text-align: center; 
+    width: 60%;
+    border-bottom: 0.4vh solid #792dcb; 
+    line-height: 0.1em;
+    margin: 15vh 0 10vh; 
+    font-size: 8vh;
+    color: #792dcb;
+    left: 50%;
+    transition: 0.8s ease;
+} 
+ 
+.head1 span 
+{ 
+     background:#ffffff; 
+     padding: 0vh 0.5vw;
+}
+ .concontact1:hover .head1
+{
+    transition: 0.8s ease;
+    width: 80%;
+}
+.textcontact1
+{
+    font-size: 4vh;
+    color: #5e5e5e;
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 20vw;
+    margin-right: 10vw;
+    margin-bottom: 5vh;
+}
+.textcontact2
+{
+    font-size: 4vh;
+    color: #5e5e5e;
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 2.5vw;
+    margin-bottom: 5vh;
+}
+.textcontact3
+{
+    font-size: 4vh;
+    color: #5e5e5e;
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 2.5vw;
+    margin-bottom: 5vh;
+    text-decoration: none transparent;
+}
+.iconcontact1
+{
+    font-size: 5vh;
+    color: #792dcb;
+    margin-left: 45vw;
+    display: inline-block;
+}
+.iconcontact2
+{
+    font-size: 3vh;
+    color: #792dcb;
+    margin-left: 20vw;
+    display: inline-block;
+}
+.textcontact3:hover
+{
+    text-decoration: underline;
+    transition: 0.8s ease;
+}
+/*Contact END*/
+
+  }

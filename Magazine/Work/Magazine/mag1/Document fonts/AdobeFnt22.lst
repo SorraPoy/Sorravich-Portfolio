@@ -1,0 +1,140 @@
+%!Adobe-FontList 1.22
+%Locale:0x41e
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Century
+FamilyName:Century
+StyleName:Regular
+FullName:Century
+MenuName:Century
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\CENTURY.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:165248
+FileModTime:1037071602
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century
+NameArray:0,Win,1,Century
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CopperplateGothic-Light
+FamilyName:Copperplate Gothic Light
+StyleName:Regular
+FullName:Copperplate Gothic Light
+MenuName:Copperplate Gothic Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\COPRGTL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62716
+FileModTime:934953228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Copperplate Gothic Light
+NameArray:0,Win,1,Copperplate Gothic Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FelixTitlingMT
+FamilyName:Felix Titling
+StyleName:Regular
+FullName:Felix Titling
+MenuName:Felix Titling
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\FELIXTI.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45952
+FileModTime:924859372
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Felix Titling
+NameArray:0,Win,1,Felix Titling
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GillSansMT
+FamilyName:Gill Sans MT
+StyleName:Regular
+FullName:Gill Sans MT
+MenuName:Gill Sans MT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\GIL_____.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67416
+FileModTime:921658060
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gill Sans MT
+NameArray:0,Win,1,Gill Sans MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LucidaBright
+FamilyName:Lucida Bright
+StyleName:Regular
+FullName:Lucida Bright
+MenuName:Lucida Bright
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\LBRITE.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70748
+FileModTime:940994796
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lucida Bright
+NameArray:0,Win,1,Lucida Bright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LilyUPC
+FamilyName:LilyUPC
+StyleName:Regular
+FullName:LilyUPC
+MenuName:LilyUPC
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:G:\KMUTT\2_1\PageTypo\Magazine2\04_256_สรวิชญ์-sec2\Document fonts\upcll.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53604
+FileModTime:1571147160
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,LilyUPC
+%EndFont
+
